@@ -44,6 +44,8 @@ export default {
       white: "#ffffff",
       red: "#ff0336",
       black:"#000",
+      yellow: "#fdcd29",
+      bgColor:"#fdcd29",
       gray: {
         50: "#efefef",
         100: "#dedede",

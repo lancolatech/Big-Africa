@@ -1,4 +1,4 @@
-import runningGirl from "../../images/who-we-are/running-girl.webp";
+import runningGirl from "../../images/who-we-are/file.png";
 
 function RunningGirl() {
   return (

@@ -21,16 +21,16 @@ function NavLinks({ onToggleNav, styles }) {
           Gallery
         </Link>
       </li>
-      <li>
+      {/* <li>
         <Link to="/schedule" className={linkStyles} onClick={onToggleNav}>
           Schedule
         </Link>
-      </li>
-      <li>
+      </li> */}
+      {/* <li>
         <Link to="/blog" className={linkStyles} onClick={onToggleNav}>
           Blog
         </Link>
-      </li>
+      </li> */}
       <li>
         <Link to="/pricing" className={linkStyles} onClick={onToggleNav}>
           Pricing

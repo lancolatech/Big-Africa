@@ -1,6 +1,6 @@
 function SecondaryHeading({
   textColor = "white",
-  bgColor = "red",
+  bgColor = "yellow",
   uppercase = true,
   children,
 }) {

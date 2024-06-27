@@ -1,5 +1,6 @@
 import HeroPages from "../components/hero-pages/HeroPages";
 import BlogLayout from "../components/blog-page/BlogLayout";
+import Images from "../components/legeza/Images";
 
 function Blog() {
   return (
@@ -7,6 +8,7 @@ function Blog() {
       <HeroPages page="Blog" />
 
       <BlogLayout />
+      <Images />
     </main>
   );
 }
