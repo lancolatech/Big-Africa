@@ -9,11 +9,11 @@ function Copyright() {
       <p>
         Designed by{" "}
         <Link
-          to="https://www.radiustheme.com/"
+          to="https://www.lancolatech.com/"
           target="_blank"
           className="focus text-red"
         >
-          Lancola Tech Company LTD lancolatech.com
+          Lancola Tech Company LTD 
         </Link>
       </p>
     </div>
