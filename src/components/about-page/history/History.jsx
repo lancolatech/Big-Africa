@@ -15,11 +15,9 @@ function History() {
             alt=""
             className="hover:rotate-y-180 mx-auto w-32 transition-all duration-700"
           />
-          <TertiaryHeading>Our history</TertiaryHeading>
+          <TertiaryHeading>Our Vision</TertiaryHeading>
           <p className="font-medium text-gray-300">
-            Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
-            sint. Velit officia consequat duis enim velit mollit Exercitation
-            veniam consequat.
+          Our vision is to be a leading dance academy recognized for excellence in dance training. We aspire to cultivate a community of passionate dancers who contribute to the artistic landscape both locally and globally. Through innovative programs and performances.
           </p>
         </div>
 
@@ -39,9 +37,7 @@ function History() {
           />
           <TertiaryHeading>Our Mission</TertiaryHeading>
           <p className="font-medium text-gray-300">
-            Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
-            sint. Velit officia consequat duis enim velit mollit Exercitation
-            veniam consequat.
+          our mission is to inspire and empower individuals through the art of dance. We are dedicated to providing high-quality dance education, fostering creativity, and promoting Kenya dance. Our aim is to create a nurturing environment where students of all ages and backgrounds can express themselves, build confidence, and achieve their full potential in the world of dance.
           </p>
         </div>
 
