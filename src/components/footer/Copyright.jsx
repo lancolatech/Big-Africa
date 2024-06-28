@@ -13,7 +13,7 @@ function Copyright() {
           target="_blank"
           className="focus text-red"
         >
-          Lincoln Moki
+          Lancola Tech Company LTD
         </Link>
       </p>
     </div>
