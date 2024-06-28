@@ -7,8 +7,7 @@ function Title() {
       <SecondaryHeading>Pricing chart</SecondaryHeading>
       <TertiaryHeading>Exclusive pricing plan</TertiaryHeading>
       <p className="mx-auto max-w-[50ch] font-medium text-gray-300">
-        Gymat an unknown printer took a galley of type and scrambled make a type
-        specimen book.
+        Have a look at our pricing plan.
       </p>
     </div>
   );

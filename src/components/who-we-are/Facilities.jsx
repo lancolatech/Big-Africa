@@ -1,6 +1,6 @@
 import trainers from "../../images/who-we-are/dancing-1.png";
-import equipments from "../../images/who-we-are/equipments.png";
-import machines from "../../images/who-we-are/machines.png";
+import equipments from "../../images/who-we-are/power-red.png";
+import machines from "../../images/who-we-are/icons8.png";
 
 function Facilities() {
   return (
@@ -21,7 +21,7 @@ function Facilities() {
           alt="equipments"
           className="hover:rotate-y-180 h-auto w-16 transition-all duration-700"
         />
-        <h4 className="w-48 text-xl font-bold uppercase">Modern Facilities</h4>
+        <h4 className="w-48 text-xl font-bold uppercase">Legeza Battle</h4>
       </div>
       <div className="flex flex-col items-center gap-4">
         <img
@@ -29,7 +29,7 @@ function Facilities() {
           alt="machines"
           className="hover:rotate-y-180 h-auto w-16 transition-all duration-700"
         />
-        <h4 className="w-48 text-xl font-bold uppercase">Fancy gym machines</h4>
+        <h4 className="w-48 text-xl font-bold uppercase">Jump Sessions</h4>
       </div>
     </div>
   );

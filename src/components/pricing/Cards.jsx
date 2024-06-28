@@ -1,8 +1,8 @@
-import TertiaryButton from "../buttons/TertiaryButton";
+// import TertiaryButton from "../buttons/TertiaryButton";
 
-import img1 from "../../images/pricing/img1.webp";
-import img2 from "../../images/pricing/img2.webp";
-import img3 from "../../images/pricing/img3.webp";
+import img1 from "../../images/pricing/2.jpg";
+import img2 from "../../images/pricing/1.jpg";
+import img3 from "../../images/pricing/3.jpg";
 
 const imgStyles = `grayscale transition-all duration-500 group-hover:scale-110 group-hover:grayscale-0`;
 
@@ -28,7 +28,7 @@ function Cards() {
             <li>Time 9am to 1pm</li>
             
           </ul>
-          <TertiaryButton>Book now</TertiaryButton>
+          {/* <TertiaryButton>Book now</TertiaryButton> */}
         </div>
       </div>
 
@@ -50,7 +50,7 @@ function Cards() {
             <li></li>
             
           </ul>
-          <TertiaryButton>Book now</TertiaryButton>
+          {/* <TertiaryButton>Book now</TertiaryButton> */}
         </div>
       </div>
 
@@ -70,7 +70,7 @@ function Cards() {
             <li>From 2pm to 5pm</li>
             <li>Come one come all</li>
           </ul>
-          <TertiaryButton>Book now</TertiaryButton>
+          {/* <TertiaryButton>Book now</TertiaryButton> */}
         </div>
       </div>
     </div>

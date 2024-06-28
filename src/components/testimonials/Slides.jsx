@@ -1,21 +1,21 @@
 const slides = [
   {
     quote:
-      "I've been a member of Gymate for the past 6 months and it has been an amazing experience. The trainers are knowledgeable and supportive, the equipment is top-notch, and the community of members is friendly and encouraging.",
+      "I've been a member of BADA for the past 6 months and it has been an amazing experience. The trainers are knowledgeable and supportive, the equipment is top-notch, and the community of members is friendly and encouraging.",
     name: "James Anderson",
-    desc: "Sportsman",
+    desc: "Dancer",
   },
   {
     quote:
-      "I've been a member of Gymate for the past 6 months and it has been an amazing experience. The trainers are knowledgeable and supportive, the equipment is top-notch, and the community of members is friendly and encouraging.",
+      "My time at BADA has been nothing short of remarkable. The trainers are exceptionally knowledgeable and always ready to help. The equipment is first-class, and the members create a friendly and motivating atmosphere.",
     name: "Ketty Mario",
-    desc: "Body Builder",
+    desc: "Dancer",
   },
   {
     quote:
-      "I've been a member of Gymate for the past 6 months and it has been an amazing experience. The trainers are knowledgeable and supportive, the equipment is top-notch, and the community of members is friendly and encouraging.",
+      "Joining BADA two months ago has been one of the best decisions. The trainers offer excellent support and have extensive knowledge. The equipment is of the highest quality, and the community is welcoming and motivating.",
     name: "Susan Brown",
-    desc: "Sportsman",
+    desc: "Dancer",
   },
 ];
 

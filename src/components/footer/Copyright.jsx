@@ -4,7 +4,7 @@ function Copyright() {
   return (
     <div className="font-medium text-gray-300">
       <p className=" ">
-        Privacy Policy | &copy; <span>{new Date().getFullYear()}</span> Gymat
+        Privacy Policy | &copy; <span>{new Date().getFullYear()}</span> BADA
       </p>
       <p>
         Designed by{" "}
@@ -13,7 +13,7 @@ function Copyright() {
           target="_blank"
           className="focus text-red"
         >
-          RadiusTheme
+          Lincoln Moki
         </Link>
       </p>
     </div>

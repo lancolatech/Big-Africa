@@ -1,7 +1,7 @@
 import SecondaryHeading from "../headings/SecondaryHeading";
 import TertiaryHeading from "../headings/TertiaryHeading";
 import Slider from "./Slider";
-import Customers from "./Customers";
+// import Customers from "./Customers";
 
 function Testimonials() {
   return (
@@ -16,7 +16,7 @@ function Testimonials() {
 
         <Slider />
 
-        <Customers />
+        {/* <Customers /> */}
       </div>
     </section>
   );

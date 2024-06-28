@@ -17,11 +17,11 @@ function Form() {
           <option value="" disabled selected>
             Select Class
           </option>
-          <option value="body building">Body Building</option>
-          <option value="cycling">Cycling</option>
-          <option value="meditation">Meditation</option>
-          <option value="workout">Workout</option>
-          <option value="karate">Karate</option>
+          <option value="body building">Hip Hop</option>
+          <option value="cycling">Contemporary</option>
+          <option value="meditation">Afro</option>
+          <option value="workout">Gengetone/urbantone</option>
+          <option value="karate">Lingala</option>
         </select>
         <textarea
           placeholder="Comment"

@@ -10,19 +10,19 @@ function Classes() {
       </h4>
       <ul className="space-y-5">
         <li>
-          <Link className={linkStyles}>Fitness classes</Link>
+          <Link className={linkStyles}>Hip Hop </Link>
         </li>
         <li>
-          <Link className={linkStyles}>Aerobics classes</Link>
+          <Link className={linkStyles}>Contemporary </Link>
         </li>
         <li>
-          <Link className={linkStyles}>Meditation classes</Link>
+          <Link className={linkStyles}>Afro </Link>
         </li>
         <li>
-          <Link className={linkStyles}>Lean machines</Link>
+          <Link className={linkStyles}>Gengetone/urbantone </Link>
         </li>
         <li>
-          <Link className={linkStyles}>Full-body strength</Link>
+          <Link className={linkStyles}>Lingala </Link>
         </li>
       </ul>
     </div>

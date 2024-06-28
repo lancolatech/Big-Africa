@@ -1,6 +1,6 @@
 import Image from "./Image";
 import Title from "./Title";
-import List from "./List";
+// import List from "./List";
 import TertiaryButton from "../../buttons/TertiaryButton";
 
 function WhoWeAre() {
@@ -12,7 +12,7 @@ function WhoWeAre() {
         <div className="space-y-8">
           <Title />
 
-          <List />
+          {/* <List /> */}
 
           <TertiaryButton to="/contact">Contact with us</TertiaryButton>
         </div>

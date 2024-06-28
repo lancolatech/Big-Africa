@@ -6,44 +6,41 @@ function Info() {
   return (
     <div>
       <h3 className="mb-4 text-3xl font-bold">
-        We are here for help you To Shape Your Body
+        We are here for help you on you dancing Journey
       </h3>
       <p className="font-medium text-gray-300">
-        when an unknown printer took a galley of type and scrambled it to make a
-        type specimen book. It has survived not only five centuries, but also
-        the leap into electronic types etting.type specimen It has survived not
-        only five centuries, but also the type specimen book.
+      Thank you for your interest in BADA Dance Academy! Whether you`re looking to enroll in classes, inquire about our programs, or simply want to learn more about what we offer, we`re here to help. Feel free to reach out to us using the contact 
       </p>
       <div className="grid 2xl:grid-cols-2 2xl:gap-y-8">
         <div>
-          <h4 className={headingStyles}>Tehran, Iran</h4>
+          <h4 className={headingStyles}>Eldoret, Kenya</h4>
           <address className="font-medium not-italic text-gray-300">
-            7th Golestan St,
-            <br /> Pasdaran St, Tehran
+          Rupa`z Fun N Fitness Centre
+            
           </address>
         </div>
         <div>
           <h4 className={headingStyles}>Opening Hours</h4>
           <p className="whitespace-nowrap font-medium text-gray-300">
-            Mon to Fri: 7:30 am — 1:00 am
+            Mon to Fri: 9:00 am — 6:00 am
           </p>
           <p className="whitespace-nowrap font-medium text-gray-300">
-            Mon to Fri: 7:30 am — 1:00 am
+          Saturday: 9:00am - 6:00pm<br /> Sunday: 2pm - 6pm
           </p>
         </div>
         <div>
           <h4 className={headingStyles}>Information</h4>
           <a
-            href="tel:+98-21-225-429-71"
+            href="tel:(+254) 746520010"
             className="block font-medium text-gray-300"
           >
-            +98-21-225-429-71
+            (+254) 746520010
           </a>
           <a
-            href="mailto:example@gymate.com"
+            href="mailto:info@bigafriquedanceacademy.com "
             className="block font-medium text-gray-300"
           >
-            example@gymate.com
+            info@bigafriquedanceacademy.com 
           </a>
         </div>
         <div>

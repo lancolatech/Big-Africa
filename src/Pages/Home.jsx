@@ -3,7 +3,7 @@ import WhoWeAre from "../components/who-we-are/WhoWeAre";
 // import FeaturedClass from "../components/featured-class/FeaturedClass";
 // import CallToAction from "../components/call-to-action/CallToAction";
 // import ChooseUs from "../components/choose-us/ChooseUs";
-import Trainers from "../components/trainers/Trainers";
+// import Trainers from "../components/trainers/Trainers";
 import Testimonials from "../components/testimonials/Testimonials";
 import Gallery from "../components/gallery/Gallery";
 import BMI from "../components/bmi/BMI";
@@ -20,7 +20,7 @@ function Home() {
       {/* <FeaturedClass /> */}
       {/* <CallToAction /> */}
       {/* <ChooseUs /> */}
-      <Trainers />
+      {/* <Trainers /> */}
       <Testimonials />
       <Gallery />
       <BMI />

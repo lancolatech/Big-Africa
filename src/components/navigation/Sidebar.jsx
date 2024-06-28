@@ -87,7 +87,7 @@ function Sidebar({ isSidebarOpen, handleToggleSidebar }) {
             <FaPhone className="text-red" /> (+254) 746520010
           </Link>
           <Link
-            to="mailto:example@gymate.com"
+            to="mailto:info@bigafriquedanceacademy.com"
             className="focus flex items-center gap-2 font-medium text-gray-400 transition-colors duration-300 hover:text-red"
           >
             <FaEnvelope className="text-red" /> info@bigafriquedanceacademy.com
