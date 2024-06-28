@@ -13,7 +13,7 @@ function Copyright() {
           target="_blank"
           className="focus text-red"
         >
-          Lancola Tech Company LTD
+          Lancola Tech Company LTD lancolatech.com
         </Link>
       </p>
     </div>
