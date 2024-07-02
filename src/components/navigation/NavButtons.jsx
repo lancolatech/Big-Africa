@@ -18,7 +18,7 @@ function NavButtons({ onToggleNav, onToggleSidebar }) {
       </button>
       <div className="focus hidden rounded-sm border-2 border-solid border-gray-350 p-1.5 lg:block">
         <Link
-          to="/contact"
+          to="https://voting-system-admin-six.vercel.app"
           className="mr-2 flex items-center justify-between gap-2 text-sm font-bold uppercase text-white outline-none"
         >
           <FaPlus className="h-8 w-8 rounded-sm bg-red p-2 text-white transition-transform duration-1000 hover:rotate-[360deg]" />

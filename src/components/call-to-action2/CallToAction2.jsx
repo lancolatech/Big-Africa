@@ -10,7 +10,7 @@ function CallToAction2() {
         <p className="text-2xl font-bold text-white">
           <span className="text-red">Call:</span> (+254) 746520010
         </p>
-        <TertiaryButton>Contact Us  now</TertiaryButton>
+        <TertiaryButton to="/contact">Contact Us  now</TertiaryButton>
       </div>
     </section>
   );

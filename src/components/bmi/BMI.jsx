@@ -9,7 +9,7 @@ function BMI() {
           <Title />
           <Banner />
           <div className="space-y-5 xl:justify-self-end">
-  <PrimaryButton to="/classes">Vote Now</PrimaryButton>
+  <PrimaryButton to="https://voting-system-admin-six.vercel.app">Nominate Now</PrimaryButton>
 </div>
         </div>
         </div>
